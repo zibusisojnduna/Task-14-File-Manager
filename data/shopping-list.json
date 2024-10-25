@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Chicken",
+    "quantity": 2
+  },
+  {
+    "id": 2,
+    "name": "Cheese",
+    "quantity": 1
+  },
+  {
+    "id": 3,
+    "name": "Cereal",
+    "quantity": 3
+  },
+  {
+    "id": 4,
+    "name": "Grapes",
+    "quantity": 2
+  },
+  {
+    "id": 5,
+    "name": "Face Wash",
+    "quantity": 1
+  }
+]
